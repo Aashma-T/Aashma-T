@@ -20,7 +20,7 @@ Here are some projects I've worked on:
 - **📊 Airline Booking Forecasting:** Predicting booking trends with MASE evaluation
 - **🔍 Airport & Airline Choice Analysis:** Analyzing passenger choices with Machine learning techniques
 - **📉 Seattle Housing Values:** Analysing the impact of redlining on property values in seattle
-- **📋Labor Market Analysis:** Investigating wage disparities among the Veterans usng regression models
+- **📋Labor Market Analysis:** Investigating wages disparities among the Veterans using regression models
 
 ## 📫 Let's Connect!
 - 💼 [LinkedIn](www.linkedin.com/in/aaashmathapamagar1)
